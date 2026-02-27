@@ -42,18 +42,16 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cotafei&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cotafei&theme=tokyonight&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cotafei&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotafei&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotafei&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cotafei&bg_color=0d1117&color=58A6FF&line=58A6FF&point=8B949E&hide_border=true">
 </p>
-
----
 
 ## 🚀 Проекты
 
