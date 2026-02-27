@@ -53,6 +53,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cotafei&bg_color=0d1117&color=58A6FF&line=58A6FF&point=8B949E&hide_border=true">
 </p>
 
+## ⚡ Development Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cotafei&theme=github_dark">
+</p>
+
 ## 🚀 Проекты
 
 - [vk-statistics-flask-app](https://github.com/cotafei/vk-statistics-flask-app)  
