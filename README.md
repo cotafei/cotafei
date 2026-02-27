@@ -45,16 +45,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cotafei&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotafei&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cotafei&bg_color=0d1117&color=58A6FF&line=58A6FF&point=8B949E&hide_border=true">
-</p>
-
-## ⚡ Development Overview
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cotafei&theme=github_dark">
 </p>
 
