@@ -55,14 +55,13 @@
 
 ---
 
-## 🚀 Основные проекты
+## 🚀 Проекты
 
-### 🔹 [vk-statistics-flask-app](https://github.com/cotafei/vk-statistics-flask-app)
-Python-backend приложение для статистики ВКонтакте. 
+- [vk-statistics-flask-app](https://github.com/cotafei/vk-statistics-flask-app)  
+  Backend-сервис на Flask для анализа статистики ВКонтакте.
 
-### 🔹 [ekb_anon_bot](https://github.com/cotafei/ekb_anon_bot)
-Telegram-бот для анонимных публикаций с системой монет и магазина привилегий.
----
+- [ekb_anon_bot](https://github.com/cotafei/ekb_anon_bot)  
+  Telegram-бот с анонимными публикациями, системой монет и привилегий.
 
 ## 🧠 Мой подход
 
