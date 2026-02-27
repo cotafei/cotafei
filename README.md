@@ -33,7 +33,7 @@
 ### 🌐 Web
 - HTML / CSS  
 - Статические и динамические страницы  
-- GitHub Pages (портфолио) :contentReference[oaicite:5]{index=5}
+- GitHub Pages (портфолио) 
 
 ### 🧠 Embedded
 - M5Stack Core2 Plus  
