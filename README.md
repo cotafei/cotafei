@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%23-Experienced-blue?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Flask%20&%20FastAPI-Backend-lightgrey?style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML%2FCSS-Web-purple?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Embedded-M5Stack-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
 ---
