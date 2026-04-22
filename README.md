@@ -1,10 +1,10 @@
-# 👨‍💻 Владимир Хисамиев — Software Developer
+# 👨‍💻 Владимир Хисамиев — AI Engineer & Backend Developer
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-LLM%20%7C%20RAG-orange?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI%20%26%20Flask-Backend-lightgrey?style=for-the-badge">
   <img src="https://img.shields.io/badge/C%23-Experienced-blue?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask%20&%20FastAPI-Backend-lightgrey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-Web-purple?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
@@ -12,62 +12,56 @@
 
 ## 📌 Описание
 
-Я — разработчик с акцентом на **Desktop, Backend и Embedded** решениях.  
-Создаю работающие продукты, автоматизацию и инструменты, которые решают реальные задачи — от Telegram-ботов до десктоп-приложений и собственных web-проектах.
+Я — AI-инженер и разработчик программного обеспечения.  
+Специализируюсь на создании **автономных ИИ-агентов**, внедрении больших языковых моделей (LLM) в бизнес-процессы и построении сложной автоматизации. 
+
+Имею сильный фундамент в классической разработке (Backend, Desktop), что позволяет мне не просто писать промпты, а проектировать масштабируемые и отказоустойчивые AI-системы на стыке нейросетей, баз данных и внешних API.
 
 ---
 
 ## 🛠 Основные навыки
 
-### 🐍 Python
-- Telegram-боты (aiogram)  
-- Backend-логика и REST API  
-- Flask-/FastAPI-проекты  
-- Автоматизация скриптами  
-- Работа с данными
+### 🧠 Искусственный интеллект и LLM
+- Разработка и оркестрация автономных ИИ-агентов
+- Интеграция API LLM (Gemini, OpenAI, Claude)
+- Построение RAG-пайплайнов и работа с контекстом (векторные базы, Obsidian)
+- Оптимизация токенов, снижение стоимости генерации
+- Настройка и поддержка VDS-инфраструктуры, пулов прокси для бесперебойной работы агентов
 
-### 💻 C# (.NET / WinForms)
-- Desktop-приложения  
-- Работа с базами данных (SQLite / MS SQL LocalDB)  
+### 🐍 Python (Backend & Automation)
+- Разработка сложных Telegram-ботов (aiogram)  
+- Создание REST API сервисов (Flask / FastAPI)  
+- Парсинг, скрейпинг и взаимодействие с закрытыми API  
+- Написание скриптов для глубокой автоматизации рутины
 
-### 🌐 Web
-- HTML / CSS  
-- Статические и динамические страницы  
-- GitHub Pages (портфолио)
-  
-### 🎮 Unity (Практический опыт)
-- Разработка 2D-проектов
-- Написание игровой логики на C#   
-- Создание UI (Canvas, кнопки, события, переходы между окнами)     
-- Связка Unity с локальной базой данных и API  
-- Разработка прототипов и экспериментальных игровых решений
+### 💻 C# (.NET / WinForms) & Unity
+- Создание Desktop-приложений под Windows  
+- Работа с реляционными базами данных (SQLite / MS SQL LocalDB / MySQL) 
+- Проектирование UI и написание игровой логики (Unity 2D/3D)
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cotafei&theme=github_dark">
-</p>
-
 ## 🚀 Проекты
+
+- [🤖 **Autonomous AI-Agent (Moodle & Telegram)**](#) *(В разработке/Приватный)* **Python / Gemini API / Obsidian / aiogram** — Автономный ИИ-агент, интегрированный с персональной базой знаний и Telegram-интерфейсом. Способен самостоятельно взаимодействовать со сложными веб-платформами (Moodle), анализировать контекст и выполнять многошаговые задачи.
 
 - [📊 **vk-statistics-flask-app**](https://github.com/cotafei/vk-statistics-flask-app)  
   **Flask / VK API / Threading** — Веб-сервис для сбора статистики из групп ВКонтакте (лайки, комментарии, рейтинг).
 
 - [🏙 **ekb_anon_bot**](https://github.com/cotafei/ekb_anon_bot)  
-  **Python / Aiogram / SQLite** — Анонимный Telegram-бот с модерацией, внутренней валютой, рефералами и магазином привилегий.
+  **Python / Aiogram / SQLite** — Анонимный Telegram-бот со сложной архитектурой: встроенная модерация, экономика (валюта), реферальная система и магазин привилегий.
 
 - [💖 **dating-app-csharp**](https://github.com/cotafei/dating-app-csharp)  
   **C# / Windows Forms / MySQL** — Десктопное приложение знакомств. Регистрация, анкеты, лайки, взаимные симпатии и чат в реальном времени.
   
+---
+
 ## 🧠 Мой подход
 
-- 📐 Понимание архитектуры до реализации  
-- 🧩 Чёткая структура кода  
-- 🔍 Прозрачность логики  
-- 🚀 Рабочие решения в приоритете  
-- 📑 Документирование проектов
+- 🤖 **AI First:** Фокус на делегировании рутины нейросетям и создании систем, работающих без участия человека.
+- 📐 **Системный дизайн:** Понимание архитектуры до реализации, грамотная связка ИИ с классическим бэкендом. 
+- 🧩 **Эффективность:** Баланс между качеством генерации ИИ и затратами ресурсов (оптимизация запросов, токенов, серверных мощностей).
+- 🚀 **Продуктовый фокус:** Рабочие решения, приносящие реальную пользу бизнесу, всегда в приоритете.
 
 ---
 
@@ -81,5 +75,5 @@
 ---
 
 <p align="center">
-  ⚡ Открыт к сотрудничеству и интересным проектам!
+  ⚡ Открыт к сотрудничеству, B2B-интеграциям и интересным проектам в сфере ИИ!
 </p>
